@@ -3,7 +3,7 @@
 using namespace std;
 using namespace vvr;
 
-
+//gia na doume ti 8a paixtei
 Mesh3DScene::Mesh3DScene()
 {
 	
